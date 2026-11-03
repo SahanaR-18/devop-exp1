@@ -1,3 +1,3 @@
 def cal(a,b):
   return a+b
-print(cal(18,6))
+print("Result: ",cal(18,6))
